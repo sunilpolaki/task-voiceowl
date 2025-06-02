@@ -1,0 +1,16 @@
+{
+  "name": "employee-management-service",
+  "version": "1.0.0",
+  "description": "A Node.js microservice for managing VoiceOwl employees and a separate company list",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "ISC"
+}
